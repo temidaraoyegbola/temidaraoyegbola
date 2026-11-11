@@ -1,7 +1,9 @@
 ## Salutations, I am Temidara 👋
 Aspiring Software Engineer | Python Developer
-<!--
-**temidaraoyegbola/temidaraoyegbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a high school senior interested in game development, application development, and software engineering.
+
+
 
 Here are some ideas to get you started:
 
