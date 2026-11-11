@@ -2,17 +2,19 @@
 Aspiring Software Engineer | Python Developer
 
 I am a high school senior interested in game development, application development, and software engineering.
+As you go through my profile, you will find projects that combine problem-solving with creativity, 
+especially applications and games that serve a purpose.
 
+## Technical Skills
+# Languages
+- Python
 
+# Frameworks & Technologies
+- Streamlit
+- Supabase
+- Ren'Py
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools
+- Github
+- Git
+- VS Code
