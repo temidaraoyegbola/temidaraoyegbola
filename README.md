@@ -1,6 +1,11 @@
+<div align= "center">
+  
 ## Salutations, I am Temidara 👋
 Aspiring Software Engineer | Python Developer
 
+</div>
+
+## About Me
 I am a high school senior interested in game development, application development, and software engineering.
 As you go through my profile, you will find projects that combine problem-solving with creativity, 
 especially applications and games that serve a purpose.
