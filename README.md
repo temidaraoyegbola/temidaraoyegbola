@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Salutations, I am Temidara 👋
+or just Temi for short :)
 <!--
 **temidaraoyegbola/temidaraoyegbola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
