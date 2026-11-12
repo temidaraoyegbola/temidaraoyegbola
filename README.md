@@ -1,4 +1,4 @@
-  ## Salutations, I am Temidara 👋
+  # Salutations, I am Temidara 👋
 Aspiring Software Engineer | Python Developer
 
 </div>
