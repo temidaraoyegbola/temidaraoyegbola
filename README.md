@@ -1,6 +1,4 @@
-<div align= "center">
-  
-## Salutations, I am Temidara 👋
+  ## Salutations, I am Temidara 👋
 Aspiring Software Engineer | Python Developer
 
 </div>
@@ -37,7 +35,6 @@ especially applications and games that serve a purpose.
 - Presents branching dialogue, multiple endings based on player dialogue choices, and multiple character perspectives.
 
 # Food Recall App
-- Still in development.
 - A future Python project focused on food recall information.
 - Created to help users identify recalled food products.
 - Will notify users if already purchased items are added to the FDA food recall list.
