@@ -1,28 +1,29 @@
-  # Salutations, I am Temidara 👋
+  # Salutations, I am Temidara |˶˙ᵕ˙ )ﾉﾞ
 Aspiring Software Engineer | Python Developer
 
 </div>
 
-## About Me
+## About Me 𓁹‿𓁹
 I am a high school senior interested in game development, application development, and software engineering.
 As you go through my profile, you will find projects that combine problem-solving with creativity, 
 especially applications and games that serve a purpose.
 
-## Technical Skills
+## Technical Skills ⛯
 # Languages
-- Python
+- Python (Intermediate)
+- SQL (Novice)
 
-# Frameworks & Technologies
+# Frameworks & Technologies </>
 - Streamlit
 - Supabase
 - Ren'Py
 
-# Tools
+# Tools 🔧
 - Github
 - Git
 - VS Code
 
-## Featured Projects
+## Featured Projects .˚₊ ⊹
 
 # Snack Track
 - An online school snack ordering and inventory application.
@@ -39,13 +40,13 @@ especially applications and games that serve a purpose.
 - Created to help users identify recalled food products.
 - Will notify users if already purchased items are added to the FDA food recall list.
 
-## Currently Learning
+## Currently Learning 🖳
 - Application development
 - Database management
 - Web development
 - Other coding languages
 - Software Engineering
 
-## My Goal
+## My Goal (˶≖`‸´≖˶)و
 I hope to become a software engineer and work on projects that solve real-world problems through creativity by 
 developing websites, games, and applications to create a positive impact on society.  
