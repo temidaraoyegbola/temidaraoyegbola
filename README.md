@@ -13,29 +13,29 @@ especially applications and games that serve a purpose.
 - Python (Intermediate)
 - SQL (Novice)
 
-# Frameworks & Technologies </>
+## Frameworks & Technologies </>
 - Streamlit
 - Supabase
 - Ren'Py
 
-# Tools 🔧
+## Tools 🔧
 - Github
 - Git
 - VS Code
 
 # Featured Projects .˚₊ ⊹
 
-# Snack Track
+## Snack Track
 - An online school snack ordering and inventory application.
 - Made with Python, Streamlit, and Supabase.
 - Showcases customer ordering, volunteer dashboard, and inventory management.
 - Currently being finalized for product release.
 
-# See You Tomorrow?
+## See You Tomorrow?
 - Visual Novel being created with the Ren'Py game engine.
 - Presents branching dialogue, multiple endings based on player dialogue choices, and multiple character perspectives.
 
-# Food Recall App
+## Food Recall App
 - A future Python project focused on food recall information.
 - Created to help users identify recalled food products.
 - Will notify users if already purchased items are added to the FDA food recall list.
