@@ -9,7 +9,7 @@ As you go through my profile, you will find projects that combine problem-solvin
 especially applications and games that serve a purpose.
 
 # Technical Skills ⛯
-# Languages
+## Languages
 - Python (Intermediate)
 - SQL (Novice)
 
