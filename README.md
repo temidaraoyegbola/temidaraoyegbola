@@ -8,7 +8,7 @@ I am a high school senior interested in game development, application developmen
 As you go through my profile, you will find projects that combine problem-solving with creativity, 
 especially applications and games that serve a purpose.
 
-## Technical Skills ⛯
+# Technical Skills ⛯
 # Languages
 - Python (Intermediate)
 - SQL (Novice)
@@ -23,7 +23,7 @@ especially applications and games that serve a purpose.
 - Git
 - VS Code
 
-## Featured Projects .˚₊ ⊹
+# Featured Projects .˚₊ ⊹
 
 # Snack Track
 - An online school snack ordering and inventory application.
